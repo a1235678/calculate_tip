@@ -12,6 +12,7 @@
 		BC871A721DBA0F5800E2CEDF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC871A701DBA0F5800E2CEDF /* Main.storyboard */; };
 		BC871A741DBA0F5800E2CEDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC871A731DBA0F5800E2CEDF /* Assets.xcassets */; };
 		BC871A771DBA0F5800E2CEDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC871A751DBA0F5800E2CEDF /* LaunchScreen.storyboard */; };
+		BC871A7F1DBA158100E2CEDF /* AdvanceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC871A7E1DBA158100E2CEDF /* AdvanceViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BC871A731DBA0F5800E2CEDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC871A761DBA0F5800E2CEDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC871A781DBA0F5800E2CEDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC871A7E1DBA158100E2CEDF /* AdvanceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvanceViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				BC871A6C1DBA0F5800E2CEDF /* AppDelegate.swift */,
 				BC871A6E1DBA0F5800E2CEDF /* ViewController.swift */,
 				BC871A701DBA0F5800E2CEDF /* Main.storyboard */,
+				BC871A7E1DBA158100E2CEDF /* AdvanceViewController.swift */,
 				BC871A731DBA0F5800E2CEDF /* Assets.xcassets */,
 				BC871A751DBA0F5800E2CEDF /* LaunchScreen.storyboard */,
 				BC871A781DBA0F5800E2CEDF /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC871A6F1DBA0F5800E2CEDF /* ViewController.swift in Sources */,
+				BC871A7F1DBA158100E2CEDF /* AdvanceViewController.swift in Sources */,
 				BC871A6D1DBA0F5800E2CEDF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
